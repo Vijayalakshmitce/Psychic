@@ -14,7 +14,7 @@ var loss = 0;
 var guessleft = 9;
 var result = false;
 var userguess;
-var spchar = [".,/;:?>?<!@#$%^&*"];
+
 //gettin user input
 function mygame() {
 
